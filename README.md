@@ -5,7 +5,6 @@
 ## Business Problems
 
 -- 15 Business Problems & Solutions
-# Netflix Movies and TV Shows Data Analysis using SQL
 
 ## Overview
 
