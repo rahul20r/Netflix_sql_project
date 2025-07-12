@@ -2,10 +2,6 @@
 ![Netflix Logo](https://github.com/rahul20r/Netflix_sql_project/blob/861c8ce6d8dcbd699a58b613cf9969004a999375/Logo.jpg)
 
 
-## Business Problems
-
--- 15 Business Problems & Solutions
-
 ## Overview
 
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
