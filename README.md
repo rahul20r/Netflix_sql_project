@@ -21,13 +21,13 @@ FROM netflix.netflix_titles
 -- 15 Business Problems & Solutions
 
 ## 1. Count the number of movies vs TV Shows
----sql
+'''sql
 select 
 	type,
 	count(*) as total_content
 from netflix_titles
 group by type
-    
+'''
 ## 2. Find the most common rating for movies and TV shows
 
 SELECT
