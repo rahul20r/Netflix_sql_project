@@ -21,7 +21,7 @@ FROM netflix.netflix_titles
 -- 15 Business Problems & Solutions
 
 ## 1. Count the number of movies vs TV Shows
-
+---sql
 select 
 	type,
 	count(*) as total_content
@@ -45,6 +45,7 @@ group by 1,2
 ) AS t1
 WHERE
 	ranking = 1
+ ---
     
     
 ## 3. List all movies released in a specific year (e.g., 2020)
